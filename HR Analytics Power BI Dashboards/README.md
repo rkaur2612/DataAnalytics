@@ -38,5 +38,5 @@ The HR Analytics Dashboard provides actionable insights into key HR metrics, ena
 * Age groups with critical attrition rates are visually emphasized.
 
 ## Interactive Filters
-Educational Qualification: Filter data by degree levels (Associates, Bachelor’s, Master’s, etc.).
-Department, Gender, and Job Role: Drill down for more specific insights.
+* **Educational Qualification:** Filter data by degree levels (Associates, Bachelor’s, Master’s, etc.).
+* **Department, Gender, and Job Role:** Drill down for more specific insights.
